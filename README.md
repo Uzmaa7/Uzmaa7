@@ -88,8 +88,7 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GithubActions</td>
   </tr>
   
-   <tr>
-
+  <tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/langchain-blue" width="55" height="55" /><br>LangChain</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/huggingface-orange" width="55" height="55" /><br>Hugging Face</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/RAG-yellow" width="55" height="55" /><br>RAG</td>
@@ -98,9 +97,8 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
     <td align="center" width="90"><img src="https://img.shields.io/badge/pandas-purple" width="55" height="55" /><br>Pandas</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/machine--learning-green" width="55" height="55" /><br>Machine Learning</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scikit--learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
-
    
-</tr>
+  </tr>
 
 </table>
 
