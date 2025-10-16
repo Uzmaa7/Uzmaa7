@@ -82,12 +82,12 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
   </tr>
 
   <tr>
-   
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>Github</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VScode</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GithubActions</td>
   </tr>
+  
    <tr>
 
     <td align="center" width="90"><img src="https://img.shields.io/badge/langchain-blue" width="55" height="55" /><br>LangChain</td>
