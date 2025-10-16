@@ -29,7 +29,7 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
 - 🔥 AboutMe (Skills) <b>[**Why I Fit in Your Bucket**]</b>
 - 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>900+ problems solved with 200+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
 - 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
-- ✋ Machine Learning & AI Explorer** — Passionate about building intelligent systems and exploring the power of **Generative AI, , Langchain, RAG (Retrieval-Augmented Generation), and NLP (Natural Language Processing)** to solve real-world problems.  
+- ✋ Machine Learning & AI Explorer** — Passionate about building intelligent systems and exploring the power of **Generative AI, Langchain, RAG (Retrieval-Augmented Generation), and NLP (Natural Language Processing)** to solve real-world problems.  
 
 💡 **Currently Building My Skills In:** 
    - Generative AI & RAG
@@ -38,9 +38,6 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
    - Python, PyTorch  
    - Data Structures & Algorithms (DSA)  
 
-- 📚 Building <b>[**Prepration Street**](https://www.preparationstreet.com/)</b>
- <!--- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
-- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh) --->
 
 
 ⚡ **Fun Side:** I enjoy experimenting with new AI tools, solving coding challenges, and watching Korean dramas 🎬 when I need a creativity boost 💫 
@@ -108,7 +105,7 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
 </table>
 
 ---
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+## 📝 PROJECT's ZONE (Working on 15+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
