@@ -107,6 +107,7 @@ Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Da
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
+ 🌐 RxAI [**🔗**](https://github.com/Uzmaa7/RxAI) 
 | 🌐 Linkedin-Post-Generator [**🔗**](https://github.com/Uzmaa7/Linkedin-Post-Generator) | 🌐 Tube-Talk [**🔗**](https://github.com/Uzmaa7/Tube-Talk) |
 | 🌐 Interactive-Chatbot [**🔗**](https://github.com/Uzmaa7/Interactive-Chatbot) | 🌐 Research-Tool [**🔗**](https://github.com/Uzmaa7/Research-Tool) | 
 | 🌐 FoodEx [**🔗**](https://github.com/Uzmaa7/FoodEx) | 🌐 Movie_Recommendation-system [**🔗**](https://github.com/Uzmaa7/Movie_Recommendation-system) |
