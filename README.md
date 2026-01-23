@@ -1,117 +1,72 @@
-<img src="updatedBanner.png">                     
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Uzma Khan ((B.Tech CSE Student))</b></h1>
-<!--<h2 align="center"><b>Aspiring Software Engineer & Tech Enthusiast</b></h2> -->
-<h2 align="center"><b> Problem Solving Enthusiast 🧠 | HardCore DSA Learner ❤️ | 75DayHardPlacementChallenge 🔥 | <br>
-200DaysOfCode+ on @LeetCode | 200DaysOfCode Streak ⚡ | 400+ Questions on LeetCode | 900+ Problems Solved Across Platforms 💻 | <br>
-Cleared Flipkart GRID Round 1 🎯 | Constant Learner 🚀 | Passionate About Data Structures & Algorithms 💫</b> 
-</b></p>
+## About Me
 
-<p align="center"> 
- <a href="https://www.linkedin.com/in/uzma-khan-8940b825b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Uzma Khan"/>
- </a>
- <a href="https://github.com/Uzmaa7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Uzmaa7" />
- </a>
- <a href="https://leetcode.com/u/uzma_123_khan/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
- </a>
-
-
+<p align="left">
+  <b>Software Developer | Frontend Engineer | AI & GenAI Enthusiast</b>
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
---- 
-## About Me
- <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
-- 🔥 AboutMe (Skills) <b>[**Why I Fit in Your Bucket**]</b>
-- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>900+ problems solved with 200+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
-- 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
-- ✋ Machine Learning & AI Explorer** — Passionate about building intelligent systems and exploring the power of **Generative AI, Langchain, RAG (Retrieval-Augmented Generation), and NLP (Natural Language Processing)** to solve real-world problems.  
+Hi, I'm **Uzma Khan**.I am passionate about building scalable products and solving real-world problems through efficient code.
 
-💡 **Currently Building My Skills In:** 
-   - Generative AI & RAG
-   - Natural Language Processing (NLP) 
-   - Machine Learning & Deep Learning     
-   - Python, PyTorch  
-   - Data Structures & Algorithms (DSA)  
-
-
-
-⚡ **Fun Side:** I enjoy experimenting with new AI tools, solving coding challenges, and watching Korean dramas 🎬 when I need a creativity boost 💫 
----
-
-
-## ❤️ I'm Code on (DSA)
-
-<p align="left"> 
-<img src="lc.png" height="40px" width="40px">
-<img src="gfg.png" height="40px" width="40px">
-
-
-</p> 
+-  **Problem Solving**: Hardcore DSA enthusiast with **900+ problems solved** and a **200+ days streak** on LeetCode 💻.
+-  **Frontend Development**: Experienced in building production-ready applications using **React.js, Next.js, and Tailwind CSS**.
+-  **AI/ML Enthusiast**: Deeply interested in **Generative AI, LangChain, and RAG pipelines** to create intelligent systems.
+-  **Achievements**: Cleared **Flipkart GRID Round 1 🎯** and successfully completed the **75-Day Hard Placement Challenge 🔥**.
+-  **Continuous Learner**: Always exploring new tech stacks and optimizing my workflow for better performance.
 
 ---
-## All DSA Badges @LeetCode
+ 
+# Tech Stack:
+-  Languages: C++, JavaScript, Python , Java
+-  Frontend: React.js, Tailwind CSS, HTML, CSS
+-  Database: MongoDB, MySQL
+-  Frameworks & Libraries: PyTorch, Hugging Face, LangChain, OpenCV
+-  GenAI: RAG pipelines, prompt engineering, LLM integrations
+-  Tools: Git,Vite, GitHub, VS Code, IntelliJ, PyCharm, Kaggle
+-  Cloud & Deployment: Vercel, Streamlit, GitHub Actions (CI/CD)
+- Strong in DSA, system design basics, and real-world project execution.
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif
-" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/lg2550.gif
-"  width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/lg25100.gif"  width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/lg200.gif"  width="40px"></img>
+Actively building and deploying Frontend + AI-powered applications.
 
----
+#  GitHub Stats:
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
+![](https://github-readme-stats.vercel.app/api?username=Uzmaa7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Uzmaa7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzmaa7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table align="center">
-    <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
-  </tr>
 
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>Github</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VScode</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GithubActions</td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/langchain-blue" width="55" height="55" /><br>LangChain</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/huggingface-orange" width="55" height="55" /><br>Hugging Face</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/RAG-yellow" width="55" height="55" /><br>RAG</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/pytorch-red" width="55" height="55" /><br>PyTorch</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/numpy-lightblue" width="55" height="55" /><br>NumPy</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/pandas-purple" width="55" height="55" /><br>Pandas</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/machine--learning-green" width="55" height="55" /><br>Machine Learning</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/scikit--learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
-   
-  </tr>
 
-</table>
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Uzmaa7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzma-khan-8940b825b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uz9971khan@gmail.com) 
 
 ---
-## 📝 PROJECT's ZONE (Working on 15+ Persional Projects)
+## Recent Projects
+<div align="center">
 
-| Project Row I                        | Project Row II      |
-|------------------------------------|----------------------------------------|
- 🌐 RxAI [**🔗**](https://github.com/Uzmaa7/RxAI) 
-| 🌐 Linkedin-Post-Generator [**🔗**](https://github.com/Uzmaa7/Linkedin-Post-Generator) | 🌐 Tube-Talk [**🔗**](https://github.com/Uzmaa7/Tube-Talk) |
-| 🌐 Interactive-Chatbot [**🔗**](https://github.com/Uzmaa7/Interactive-Chatbot) | 🌐 Research-Tool [**🔗**](https://github.com/Uzmaa7/Research-Tool) | 
-| 🌐 FoodEx [**🔗**](https://github.com/Uzmaa7/FoodEx) | 🌐 Movie_Recommendation-system [**🔗**](https://github.com/Uzmaa7/Movie_Recommendation-system) |
-| 🌐 PolicyPal [**🔗**](https://github.com/Uzmaa7/PolicyPal) |
+| Project | Tech Stack | Link |
+| :--- | :--- | :---: |
+| **K72 Project** | `React` `UI/UX` `Optimization` | [**View**](https://github.com/Uzmaa7/k72) |
+| **Portfolio** | `Next.js` `Tailwind CSS` `Framer Motion` | [**View**](https://github.com/Uzmaa7/Portfolio) |
+| **CynthiaUgwu**| `GSAP` `Locomotive Scroll` `JS` | [**View**](https://github.com/Uzmaa7/CynthiaUgwu) |
+| **RxAI** | `Python` `PyTorch` `RAG` `NLP` | [**View**](https://github.com/Uzmaa7/RxAI) |
+| **ImageEditor** | `Javascript` `HTML5` `CSS3` `Canvas` | [**View**](https://github.com/Uzmaa7/ImageEditor) |
+| **Kanban-Board** | `Javascript` `CSS3` `Drag-n-Drop` | [**View**](https://github.com/Uzmaa7/Kanban-Board) |
+
+
+
+
+</div>
+
 ---
 
 
