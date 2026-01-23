@@ -10,7 +10,8 @@ Hi, I'm **Uzma Khan**.I am passionate about building scalable products and solvi
 -  **Problem Solving**: Hardcore DSA enthusiast with **900+ problems solved** and a **200+ days streak** on LeetCode 💻.
 -  **Frontend Development**: Experienced in building production-ready applications using **React.js, Next.js, and Tailwind CSS**.
 -  **AI/ML Enthusiast**: Deeply interested in **Generative AI, LangChain, and RAG pipelines** to create intelligent systems.
--  **Achievements**: Cleared **Flipkart GRID Round 1 🎯** and successfully completed the **75-Day Hard Placement Challenge 🔥**.
+- Cleared **Flipkart GRID coding Round 🎯** and successfully completed the **75-Day Hard Placement Challenge 🔥**.
+- Enjoy working on frontend-heavy systems, system design, and real-world problem solving
 
 
 ---
