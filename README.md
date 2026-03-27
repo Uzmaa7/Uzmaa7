@@ -49,8 +49,8 @@ Actively building and deploying full-stack + AI-powered applications.
 
 | Project | Tech Stack | Link |
 | :--- | :--- | :---: |
-| **LeetLab** | `React` `UI/UX` `Optimization` | [**View**](https://github.com/Uzmaa7/LeetLab) |
-| **Movie-Booking** | `React` `UI/UX` `Optimization` | [**View**](https://github.com/Uzmaa7/Movie-Booking) |
+| **LeetLab** | `Node Js` `Express Js` `Socket.io` | [**View**](https://github.com/Uzmaa7/LeetLab) |
+| **Movie-Booking** | `JWT` `REST APIs` `Node Js` `Express Js` | [**View**](https://github.com/Uzmaa7/Movie-Booking) |
 | **K72 Project** | `React` `UI/UX` `Optimization` | [**View**](https://github.com/Uzmaa7/k72) |
 | **Portfolio** | `Next.js` `Tailwind CSS` `Framer Motion` | [**View**](https://github.com/Uzmaa7/Portfolio) |
 | **CynthiaUgwu**| `GSAP` `Locomotive Scroll` `JS` | [**View**](https://github.com/Uzmaa7/CynthiaUgwu) |
