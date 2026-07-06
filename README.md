@@ -118,7 +118,62 @@ remote: Ready ✅
 
 
 
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚂 IRCTC — Distributed Microservices Backend
+**⚙️ Deep Architecture & Clean Patterns**
+
+[![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Uzmaa7/Backend)
+
+> High-concurrency railway booking backend engineered with decoupled microservices and explicit structural design patterns.
+
+**Key Implementations:**
+- 📐 **Clean Architecture:** Structured service layers using **Dependency Injection**, class-based controllers, and the **Repository Pattern** for a strict separation of concerns.
+- 🏗️ **Distributed Transactions:** Coordinated multi-service data integrity across booking, payment, and inventory flows using Apache Kafka and the **Saga Pattern**.
+- 🔒 **Concurrency Controls:** Prevented over-booking and race conditions on concurrent seat selections via **Redis distributed locks**.
+- 🛡️ **Resilient API Gateway:** Built a single entry point managing JWT authentication, custom rate-limiting, and fault isolation via **circuit breakers**.
+- 📊 **Polyglot Storage:** Isolated service data using a Database-per-Service model across 5 **PostgreSQL** instances via Prisma, coupled with **Elasticsearch** for low-latency station lookups.
+- 📉 **Fault Tolerance:** Configured custom Kafka consumers with Dead-Letter Queues (DLQ) to isolate and handle processing failures without stopping the pipeline.
+
+`Node.js` `Express` `Kafka` `Redis` `PostgreSQL` `Prisma` `Elasticsearch` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 LeetLab — DSA Revision Platform
+**🎯 Full-Stack Product Engine** · `v1.0` · ✅ Live in Production
+
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_App-10b981?style=for-the-badge)](https://leet-lab-seven.vercel.app)
+[![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Uzmaa7/LeetLab)
+
+> Full-stack platform solving the "revision gap" faced by 1,000s of students in coding interview preparation through real-time peer coding contests and analytics.
+> 
+**Key Implementations:**
+- ⚡ **Remote Code Execution:** Integrated the **Judge0 API** securely to manage, execute, and score sandboxed user code submissions against dynamic test configurations.
+- 🔄 **Real-Time State Sync:** Designed a bidirectional event management layer with **Socket.io** to synchronize live lobby states, ticking contest room timers, and leaderboard updates simultaneously.
+- 💬 **TalkTown Chat System:** Engineered a decoupled, persistent communication infrastructure handling private and group message routing for live solution benchmarking.
+- 🗄️ **Relational Document Schemas:** Modeled explicit multi-document reference relationships within **MongoDB** to tie profile states, problem lists, custom contests, and live room metrics together.
+- 🛡️ **Session Management:** Implemented cookie-based security pipelines handling dual JWT access/refresh token rotation sequences alongside automated image upload flows via Cloudinary.
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Socket.io` `Judge0` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Engineering Philosophy:** I build products focused on **Clean Code**, scalable abstraction layers, and strict data validation to write backend logic that is readable, tested, and maintainable. 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 
 
