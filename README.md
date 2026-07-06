@@ -1,69 +1,63 @@
-# About Me:
-
- Hi, I’m Uzma Khan
-  Software Developer | MERN Stack | AI & GenAI Enthusiast
-  Passionate about building scalable products and solving real-world problems with code.
-
- - Strong foundation in Data Structures & Algorithms
- - Experienced in building production-ready full-stack applications
- - Hands-on with AI/ML & Generative AI projects
- - Enjoy working on backend-heavy systems, system design, and real-world problem solving
- - Always learning, always building
- 
-# Tech Stack:
--  Languages: C++, JavaScript, Python , Java
--  Frontend: React.js, Tailwind CSS, HTML, CSS
--  Backend & APIs: Node.js, RESTful APIs, JWT Authentication, MVC Architecture, Express.js
--  Database: MongoDB, MySQL
--  Frameworks & Libraries: PyTorch, Hugging Face, LangChain, OpenCV
--  GenAI: RAG pipelines, prompt engineering, LLM integrations
--  Tools: Git, Docker, Postman, Vite, GitHub, VS Code, IntelliJ, PyCharm, Kaggle
--  Cloud & Deployment: AWS, Docker, Streamlit, GitHub Actions (CI/CD)
--   Strong in DSA, system design basics, and real-world project execution.
-
-Actively building and deploying full-stack + AI-powered applications.
-
-#  GitHub Stats:
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Uzmaa7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzma-khan-8940b825b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uz9971khan@gmail.com) 
-
----
-## Recent Projects
 <div align="center">
 
-| Project | Tech Stack | Link |
-| :--- | :--- | :---: |
-| **LeetLab** | `Node Js` `Express Js` `Socket.io` | [**View**](https://github.com/Uzmaa7/LeetLab) |
-| **Movie-Booking** | `JWT` `REST APIs` `Node Js` `Express Js` | [**View**](https://github.com/Uzmaa7/Movie-Booking) |
-| **K72 Project** | `React` `UI/UX` `Optimization` | [**View**](https://github.com/Uzmaa7/k72) |
-| **Portfolio** | `Next.js` `Tailwind CSS` `Framer Motion` | [**View**](https://github.com/Uzmaa7/Portfolio) |
-| **CynthiaUgwu**| `GSAP` `Locomotive Scroll` `JS` | [**View**](https://github.com/Uzmaa7/CynthiaUgwu) |
-| **RxAI** | `Python` `PyTorch` `RAG` `NLP` | [**View**](https://github.com/Uzmaa7/RxAI) |
-| **ImageEditor** | `Javascript` `HTML5` `CSS3` `Canvas` | [**View**](https://github.com/Uzmaa7/ImageEditor) |
-| **Kanban-Board** | `Javascript` `CSS3` `Drag-n-Drop` | [**View**](https://github.com/Uzmaa7/Kanban-Board) |
+<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
+
+<h1 align="center" style="font-size: 56px;"><span style="color:#38BDF8;">Uzma Khan</span></h1>
+
+<p align="center">
+  <a href="https://github.com/uzmakhan">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=200&color=38BDF8&center=true&multiline=true&repeat=true&width=850&height=150&vCenter=false&linesPs=25&lines=%F0%9F%9A%80+Software+Developer+%7C+Backend+Developer;%E2%9A%99%EF%B8%8F+Clean+Code+Architecture;%F0%9F%92%BC+Open+to+SDE%2FBackend+roles+or+internships" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ═══════════════════ INTRODUCTION ═══════════════════ -->
+
+## 👨‍💻 Professional Introduction
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm a **Software Developer** based in **India** who builds end-to-end web applications — focusing on solid backend architecture.
+
+**What I build:** I design and build full-stack web applications using Node.js, Express, React, and databases like PostgreSQL and MongoDB. My projects go beyond simple CRUD apps—I have hands-on experience setting up microservices that communicate using Kafka, implementing API gateways with rate limiting, handling real-time features using Socket.IO, and managing data concurrency with Redis. Every project I work on is **fully documented, public on GitHub, and deployed live**.
+
+**Architecture & Design Values:**
+- **Object-Oriented Architecture:** Write strictly modular backend code by heavily leveraging OOP principles.
+- **Design Patterns:** Use patterns like **Singleton** (for shared instances like DB connections or Kafka clients) and follow **Dependency Injection** for loosely coupled, testable components.
+- **Layered Separation of Concerns:** Structure code into clear, Class-based Controllers, Service Layers(business logic), and Repository Layers(database abstraction).
+- **Execution over Fluff:** Focus on shipping functional, complete applications over half-finished ideas, and believe in learning in public.
+
+**Current focus:** System design, backend architectures, and database optimization.
+
+**Career objective:** A Software Developer **junior role or internship** where I can ship real features, learn from senior engineers, and grow into a product-minded engineer.
+
+</td>
+<td width="38%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding animation"/>
+
+<img width="736" height="929" alt="download" src="https://github.com/user-attachments/assets/19847482-c4e9-4f6d-b3da-88ee164d9dbf" style="margin-top: -20px;" />
+
+```yaml
+name: Uzma Khan
+role: Software Developer - Backend
+education: B.Tech CSE specialisation in AI/ML
+location: India (IST)
+languages: [English, Hindi]
+open_to: [Internship, Junior Roles]
+remote: Ready ✅
+```
+
+</td>
+</tr>
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
-
-</div>
-
----
 
 
 
