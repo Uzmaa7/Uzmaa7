@@ -56,6 +56,59 @@ remote: Ready ✅
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> Tech Stack & Tools
+
+
+<h3 align="center"> Frontend & Styling</h3>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60" style="vertical-align: middle;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="60" height="60" style="vertical-align: middle;" />
+  </a>
+</div>
+
+
+<h3 align="center"> Backend, APIs & Databases</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60" style="vertical-align: middle;  transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" height="60" style="vertical-align: middle;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" width="60" height="60" style="vertical-align: middle;transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="60" height="60" style="vertical-align: middle;  transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" alt="API Gateway / Proxy" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
+
+<h3 align="center"> Cloud, DevOps & Deployment</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Fixed Render Box Size to 60x60 -->
+  <img src="https://simpleicons.org/icons/render.svg" alt="Render" width="60" height="60" style="vertical-align: middle; background-color: #1a1e22; padding: 14px; border-radius: 12px; box-sizing: border-box; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Fixed Animated GitHub Box Size to 60x60 -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" style="vertical-align: middle; background-color: #1a1e22; padding: 12px; border-radius: 12px; box-sizing: border-box; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
+
+
+<h3 align="center"> Workflow, Build & Design Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" style="vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
 
 
 
@@ -65,4 +118,12 @@ remote: Ready ✅
 
 
 
- -->
+
+
+
+
+
+
+
+
+
