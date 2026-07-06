@@ -152,7 +152,7 @@ remote: Ready ✅
 [![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_App-10b981?style=for-the-badge)](https://leet-lab-seven.vercel.app)
 [![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Uzmaa7/LeetLab)
 
-> Full-stack platform solving the "revision gap" faced by 1,000s of students in coding interview preparation through real-time peer coding contests and analytics.
+> Full-stack platform solving the "revision gap" faced by 1,000s of students through real-time peer custom coding contests and analytics.
 > 
 **Key Implementations:**
 - ⚡ **Remote Code Execution:** Integrated the **Judge0 API** securely to manage, execute, and score sandboxed user code submissions against dynamic test configurations.
@@ -169,7 +169,7 @@ remote: Ready ✅
 
 <div align="center">
 
-**Engineering Philosophy:** I build products focused on **Clean Code**, scalable abstraction layers, and strict data validation to write backend logic that is readable, tested, and maintainable. 🚀
+➕ **The Journey:** Started with basic HTML/CSS/JS in 2025 ➔ Architecting high-concurrency microservices and real-time platforms in 2026. Proof of relentless hard work and execution. 💪
 
 </div>
 
