@@ -1,12 +1,12 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- ═══════════════════ HERO BANNER ═══════════════════ -->
 
-<h1 align="center" style="font-size: 56px;"><span style="color:#38BDF8;">Uzma Khan</span></h1>
+<h1 align="center" style="font-size: 56px; margin-bottom: 0px;"><span style="color:#38BDF8;">Uzma Khan</span></h1>
 
-<p align="center">
+<p align="center" style="margin-top: 5px; margin-bottom: 0px; padding: 0px;">
   <a href="https://github.com/uzmakhan">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=200&color=38BDF8&center=true&multiline=true&repeat=true&width=850&height=150&vCenter=false&linesPs=25&lines=%F0%9F%9A%80+Software+Developer+%7C+Backend+Developer;%E2%9A%99%EF%B8%8F+Clean+Code+Architecture;%F0%9F%92%BC+Open+to+SDE%2FBackend+roles+or+internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Software+Developer+%7C+Backend+Developer;Clean+Code+Architecture;Open+to+SDE%2FBackend+roles+or+internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -65,4 +65,4 @@ remote: Ready ✅
 
 
 
-
+ -->
