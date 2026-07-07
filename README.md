@@ -177,8 +177,20 @@ remote: Ready ✅
 
 
 
+<!-- ═══════════════════ MY DEVELOPER JOURNEY ═══════════════════ -->
 
-
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#6366f1','primaryTextColor':'#fff','lineColor':'#38bdf8'}}}%%
+timeline
+    title 🚀 My Developer Journey
+    2022 : Joined Bennett University : Foundations of Computer Science
+    2023 : DSA Inception : First contribution (HTML/CSS)
+    2024 : Toughening Logic : 900+ DSA problems solved
+    2025 - 1 : Built RxAI : Linkedin-Post-Generator : TubeTalk : Hands-on with GenAI & ML
+    2025 - 2 : Frontend Transition : React.js
+    2026 - 1 : LeetLab Live : full-stack application : solves problem of 1000s of students 
+    2026 - 2 : IRCTC Microservices : Hardcore backend scaling (Kafka, Redis distributed locks, Prisma)
+```
 
 
 
