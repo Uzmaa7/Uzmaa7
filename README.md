@@ -192,5 +192,13 @@ timeline
     2026 - 2 : IRCTC Microservices : Hardcore backend scaling (Kafka, Redis distributed locks, Prisma)
 ```
 
+<!-- ═══════════════════ Lets Connect ═══════════════════ -->
+## 🤝 Let's Connect
 
+If you're a founder, engineering lead, or recruiter looking for a product-minded engineer who prioritizes clean code, scalability, and system design, let's get in touch!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzma-khan-8940b825b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uz9971khan@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_View_Resume-Google_Drive-8b5cf6?style=for-the-badge)](https://drive.google.com/file/d/YOUR_DRIVE_FILE_ID/view?usp=sharing)
+
+---
