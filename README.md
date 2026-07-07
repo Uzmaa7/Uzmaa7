@@ -30,7 +30,7 @@ I'm a **Software Developer** based in **India** who builds end-to-end web applic
 
 **Current focus:** System design, backend architectures, and database optimization.
 
-**Career objective:** A Software Developer **junior role or internship** where I can ship real features, learn from senior engineers, and grow into a product-minded engineer.
+**Career objective:** A Software Developer **Fresher roles or internship** where I can ship real features, learn from senior engineers, and grow into a product-minded engineer.
 
 </td>
 <td width="38%" valign="top">
