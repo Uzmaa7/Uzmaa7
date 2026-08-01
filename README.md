@@ -126,7 +126,7 @@ remote: Ready ✅
 <tr>
 <td width="50%" valign="top">
 
-### 🚂 IRCTC — Distributed Microservices Backend
+### 🚂 GoRail — Distributed Microservices Backend
 **⚙️ Deep Architecture & Clean Patterns**
 
 [![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Uzmaa7/Backend)
