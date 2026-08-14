@@ -189,7 +189,7 @@ timeline
     2025 - 1 : Built RxAI : Linkedin-Post-Generator : TubeTalk : Hands-on with GenAI & ML
     2025 - 2 : Frontend Transition : React.js
     2026 - 1 : LeetLab Live : full-stack application : solves problem of 1000s of students 
-    2026 - 2 : IRCTC Microservices : Hardcore backend scaling (Kafka, Redis distributed locks, Prisma)
+    2026 - 2 : GoRail Microservices : Hardcore backend scaling (Kafka, Redis distributed locks, Prisma)
 ```
 
 <!-- ═══════════════════ Lets Connect ═══════════════════ -->
